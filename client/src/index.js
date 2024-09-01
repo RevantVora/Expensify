@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import axios from 'axios';
 
-axios.defaults.baseURL="https://money-tracker-pa5o.onrender.com";
+axios.defaults.baseURL="https://expensify-j3t7.onrender.com";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
