@@ -1,5 +1,5 @@
 const mongoose=require('mongoose');
-const url='mongodb+srv://rajveeersingh1505:VZJdDdV9B3JbTJNx@cluster0.hf6yx.mongodb.net';
+const url='mongodb+srv://21je0759:NrQzhxiYedbrYVF9@cluster0.8cjir.mongodb.net';
 mongoose.connect(url,{useUnifiedTopology: true});
 
 const connection=mongoose.connection;
